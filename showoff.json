@@ -1,0 +1,12 @@
+{
+  "title": "Ruby on Rails",
+  "name": "do we need another web framework?",
+  "sections": [
+                {"section":"introduction"},
+		{"section":"mvc"},
+		{"section":"development"},
+		{"section":"testing"},
+		{"section":"deployment"},
+		{"section":"finish"}
+              ]
+}
